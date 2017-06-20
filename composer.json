@@ -1,5 +1,5 @@
 {
-  "name": "pantheon-systems/example-drops-8-composer",
+  "name": "my-profile-upstream/upstream-test-project",
   "description": "Install drops-8 with Composer on Pantheon.",
   "type": "project",
   "license": "MIT",
@@ -21,6 +21,7 @@
     "drush/drush": "~8",
     "rvtraveller/qs-composer-installer": "^1.1",
     "webflo/drupal-core-strict": "^8"
+    "my-profile-upstream/upstream-test",
   },
   "require-dev": {
     "mikey179/vfsstream": "^1.2",
